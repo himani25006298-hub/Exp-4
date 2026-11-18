@@ -1,7 +1,8 @@
-Aim
+Aim:
+
 To write a Python program to demonstrate various list operations and built-in functions, such as append, insert, remove, pop, count, index, sort, reverse, copy, extend, maximum, minimum, sum, and clear.
 
-Algorithm
+Algorithm:
 
 1.Start the program.
 
